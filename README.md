@@ -15,7 +15,7 @@ Features
 How to run
 ----------
 
-Ensure you have Python 3.x installed on your machine. Run the game using the following command:
+Ensure you have Python 3.8+ installed on your machine. Run the game using the following command:
 
 `python main.py`
 
